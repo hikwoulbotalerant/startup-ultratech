@@ -1,2 +1,1 @@
 # startup-ultratech
-startup-ultratech
